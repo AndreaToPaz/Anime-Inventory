@@ -2,7 +2,6 @@
  Respository for Anime Inventory, an own project idea based in what i don't like of MyAnimeList UI, so basically is a project for practicing my development skills
  
  ## Database inicial design
- ![My Remote Image](https://github.com/AndreaToPaz/Anime-Inventory/blob/main/reame-img/Anime%20Inventory.jpg?raw=true)
  
  some considerations:
  
